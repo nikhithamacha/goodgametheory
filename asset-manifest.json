@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/goodgametheory/static/css/main.c0044e17.css",
+    "main.js": "/goodgametheory/static/js/main.070450f8.js",
+    "static/js/787.4614a1c6.chunk.js": "/goodgametheory/static/js/787.4614a1c6.chunk.js",
+    "index.html": "/goodgametheory/index.html",
+    "main.c0044e17.css.map": "/goodgametheory/static/css/main.c0044e17.css.map",
+    "main.070450f8.js.map": "/goodgametheory/static/js/main.070450f8.js.map",
+    "787.4614a1c6.chunk.js.map": "/goodgametheory/static/js/787.4614a1c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0044e17.css",
+    "static/js/main.070450f8.js"
+  ]
+}
